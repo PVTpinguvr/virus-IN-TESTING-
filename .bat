@@ -5,3 +5,31 @@ pause
 :loopstart
 start
 goto loopstart
+
+:loopstart
+start
+goto loopstart
+
+:loopstart
+start
+goto loopstart
+
+:loopstart
+start
+goto loopstart
+
+:loopstart
+start
+goto loopstart
+
+:loopstart
+start
+goto loopstart
+
+:loopstart
+start
+goto loopstart
+
+:loopstart
+start
+goto loopstart
